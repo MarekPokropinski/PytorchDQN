@@ -1,5 +1,12 @@
 # PytorchDQN
 
+## Prerequisites
+
+* python >= 3.6
+* open-ai gym
+* tensorflow
+
+
 ## Learning
 
 ```
